@@ -34,3 +34,12 @@ print(txt.lower())  # Output: helloworld
 print(txt.replace('H', 'J'))  # Output: JelloWorld
 
 ![img.1](gambar/Screenshot_20221227_100651.png)
+
+# Lengkapi kode berikut:
+
+umur = 24
+txt = 'Hello, nama saya john, dan umur saya adalah
+... tahun'
+print(txt.format(umur))
+- Untuk menyelesaikan latihan ini, Kita dapat menggunakan method format pada string. Method format akan menggantikan placeholder {} dengan nilai yang diberikan
+![img.2](gambar/Screenshot_20221227_101502.png)
