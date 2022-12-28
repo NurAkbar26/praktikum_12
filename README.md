@@ -35,6 +35,9 @@ print(txt.replace('H', 'J'))  # Output: JelloWorld
 
 ![img.1](gambar/Screenshot_20221227_100651.png)
 
+# OUTPUT
+![img.3](gambar/Screenshot_20221228_080324.png)
+
 # Lengkapi kode berikut:
 
 umur = 24
